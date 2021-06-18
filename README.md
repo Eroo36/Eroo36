@@ -28,9 +28,18 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Amazon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
+<br />
 
 <br />
+
+<a href="https://github.com/Eroo36">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroo36&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <br />
+  
+ <a href="https://github.com/erdemozk">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eroo36&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Erdem's GitHub Stats"/>
+</a>
 
 
 [instagram]: https://instagram.com/edogruca
