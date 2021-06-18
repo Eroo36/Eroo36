@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute to a Open Source project
-- ⚡ I love anime, music adn gaming
+- ⚡ I love anime, music and gaming
 
 ### Connect with me:
 
