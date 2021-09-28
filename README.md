@@ -2,8 +2,7 @@
 
 ## I'm a Hybrid Mobile and Backend Developer !!
 
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Contribute to a Open Source project
+- 🌱 Currently focusing on backend
 - ⚡ I love anime, music and gaming
 
 ### Connect with me:
