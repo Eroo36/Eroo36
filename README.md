@@ -1,6 +1,6 @@
 ### Hi there, I'm Eren
 
-## I'm a Hybrid Mobile and Backend Developer !!
+## I'm a Software Developer !!
 
 - 🌱 Currently focusing on backend
 - ⚡ I love anime, music and gaming
