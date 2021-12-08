@@ -3,7 +3,7 @@
 ## I'm a Software Developer !!
 
 - 🌱 Currently focusing on backend
-- ⚡ I love anime, music and gaming
+- ⚡ I love anime,digital art, music and gaming
 
 ### Connect with me:
 
