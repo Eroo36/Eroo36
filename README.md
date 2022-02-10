@@ -2,8 +2,7 @@
 
 ## I'm a Software Developer !!
 
-- 🌱 Currently focusing on backend
-- ⚡ I love anime,digital art, music and gaming
+- 🌱 Currently focusing on blockchains, nfts, backend development
 
 ### Connect with me:
 
