@@ -1,6 +1,4 @@
-### Hi there, I'm Eren
-
-## I'm a Software Developer !!
+### Hi there!
 
 - 🌱 Currently focusing on blockchains, nfts, backend development
 
